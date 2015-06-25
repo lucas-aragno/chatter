@@ -1,0 +1,6 @@
+#!usr/bin/env ruby
+
+require 'chatter'
+
+chatter = Chatter::Talker.new
+chatter.talk
